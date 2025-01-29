@@ -1,0 +1,3 @@
+[submodule "load-more-pokemons"]
+	path = load-more-pokemons
+	url = https://github.com/reactpractice-dev/load-more-pokemons.git
